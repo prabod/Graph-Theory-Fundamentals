@@ -1,0 +1,26 @@
+{
+  "name": "graph-theory-fundamentals",
+  "version": "1.0.0",
+  "description": "Collection of Fundamental functions of Graph Theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabod/Graph-Theory-Fundamentals.git"
+  },
+  "keywords": [
+    "graph-theory",
+    "graph-coloring",
+    "regular-graph",
+    "complimentary-graph",
+    "self-complimentary-graph"
+  ],
+  "author": "Prabod Rathnayaka <prabod@rathnayaka.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabod/Graph-Theory-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/prabod/Graph-Theory-Fundamentals#readme"
+}
